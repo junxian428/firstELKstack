@@ -1,0 +1,34 @@
+[Wed Apr 07 19:13:13.674434 2021] [php:warn] [pid 12272:tid 1836] [client 147.158.41.52:64835] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.41.52/POS/
+[Wed Apr 07 19:51:25.916847 2021] [php:error] [pid 12272:tid 1832] [client 142.93.189.19:34394] script 'C:/xampp/htdocs/wp-login.php' not found or unable to stat
+[Thu Apr 08 08:23:42.360855 2021] [ssl:warn] [pid 13156:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 08 08:23:42.462849 2021] [core:warn] [pid 13156:tid 504] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 08 08:23:42.466850 2021] [ssl:warn] [pid 13156:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 08 08:23:42.724063 2021] [mpm_winnt:notice] [pid 13156:tid 504] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.1 configured -- resuming normal operations
+[Thu Apr 08 08:23:42.724063 2021] [mpm_winnt:notice] [pid 13156:tid 504] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Thu Apr 08 08:23:42.724063 2021] [core:notice] [pid 13156:tid 504] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Apr 08 08:23:42.733062 2021] [mpm_winnt:notice] [pid 13156:tid 504] AH00418: Parent: Created child process 22432
+[Thu Apr 08 08:23:44.427132 2021] [ssl:warn] [pid 22432:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 08 08:23:44.522131 2021] [ssl:warn] [pid 22432:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 08 08:23:44.579133 2021] [mpm_winnt:notice] [pid 22432:tid 496] AH00354: Child: Starting 150 worker threads.
+[Thu Apr 08 09:15:33.120527 2021] [cgi:error] [pid 22432:tid 1832] [client 45.229.55.8:62195] AH02811: script not found or unable to stat: C:/xampp/htdocs/setup.cgi
+[Wed Apr 14 08:18:30.250729 2021] [ssl:warn] [pid 19476:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 14 08:18:30.366853 2021] [core:warn] [pid 19476:tid 468] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 14 08:18:30.371854 2021] [ssl:warn] [pid 19476:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 14 08:18:31.253719 2021] [mpm_winnt:notice] [pid 19476:tid 468] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.1 configured -- resuming normal operations
+[Wed Apr 14 08:18:31.254718 2021] [mpm_winnt:notice] [pid 19476:tid 468] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Wed Apr 14 08:18:31.254718 2021] [core:notice] [pid 19476:tid 468] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Apr 14 08:18:31.260720 2021] [mpm_winnt:notice] [pid 19476:tid 468] AH00418: Parent: Created child process 11924
+[Wed Apr 14 08:18:33.054663 2021] [ssl:warn] [pid 11924:tid 772] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 14 08:18:33.173662 2021] [ssl:warn] [pid 11924:tid 772] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 14 08:18:33.239660 2021] [mpm_winnt:notice] [pid 11924:tid 772] AH00354: Child: Starting 150 worker threads.
+[Wed Apr 14 08:23:16.948948 2021] [php:warn] [pid 11924:tid 1848] [client 147.158.6.75:49277] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/
+[Wed Apr 14 08:53:23.784341 2021] [php:warn] [pid 11924:tid 1772] [client 147.158.6.75:49650] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/
+[Wed Apr 14 08:56:58.369577 2021] [php:warn] [pid 11924:tid 1772] [client 175.141.253.213:37818] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/main.php
+[Wed Apr 14 08:57:23.340242 2021] [php:warn] [pid 11924:tid 1848] [client 175.141.253.213:37208] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/main.php
+[Wed Apr 14 08:58:47.729479 2021] [php:warn] [pid 11924:tid 1876] [client 175.141.253.213:58647] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/products/products.php
+[Wed Apr 14 08:58:53.820424 2021] [php:warn] [pid 11924:tid 1836] [client 202.151.231.105:65514] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/
+[Wed Apr 14 08:59:24.516382 2021] [php:warn] [pid 11924:tid 1816] [client 175.141.253.213:25987] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/main.php
+[Wed Apr 14 08:59:41.392259 2021] [php:warn] [pid 11924:tid 1772] [client 175.141.253.213:3792] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/main.php
+[Wed Apr 14 09:29:09.360410 2021] [php:warn] [pid 11924:tid 1836] [client 147.158.6.75:49969] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/sales/sales.php
+[Wed Apr 14 09:40:27.859790 2021] [php:warn] [pid 11924:tid 1816] [client 147.158.6.75:50113] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/sales/sales.php
+[Wed Apr 14 09:40:37.155933 2021] [php:warn] [pid 11924:tid 1836] [client 147.158.6.75:50114] PHP Warning:  Undefined array key "username" in C:\\xampp\\htdocs\\POS\\add.php on line 25, referer: http://147.158.6.75/POS/products/products.php
